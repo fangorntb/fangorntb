@@ -9,4 +9,3 @@
 * chat-bots
 * analytics
 * AI
-[Go]
