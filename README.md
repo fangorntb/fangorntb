@@ -3,7 +3,7 @@
 * **3+ years of experience in Python**
 * **back-end**
 * **chat-bots**
-* **analytics**
+* **analytics** 
 * **AI**
 
 ### Skills
