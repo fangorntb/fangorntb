@@ -1,6 +1,6 @@
 ## About
 
-* **4+ years of experience in Python**
+* **5+ years of experience in Python**
 * **back-end**
 * **chat-bots**
 * **analytics** 
